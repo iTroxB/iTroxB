@@ -1,6 +1,7 @@
-### Hi there 👋
+#  ![https://sites.google.com/view/itrox/](https://lh5.googleusercontent.com/B3Zqd52P_DNR2fmSCP4osiHhm0Yq_gK4FvvvRuz8RVpimoh-D6-hwd61NQJUK6yEYdOm0JejDMJnOJLSmzdXcSU=w16383) Hi, I'm iTrox 👋
 
-<!--
+![image](https://github.com/iTroxB/iTroxB/assets/143133090/e3eef1e8-8a39-4054-bbf9-f1867331420c)
+
 **iTroxB/iTroxB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
