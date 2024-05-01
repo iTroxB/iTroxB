@@ -1,6 +1,6 @@
 #  ![https://sites.google.com/view/itrox/](https://drive.google.com/file/d/1Ov7utUUih16EYq4PGLaXQ5r1sifiWYap/view?usp=sharing) Hi, I'm iTrox 👋
 
-![image]([https://github.com/iTroxB/iTroxB/assets/143133090/e3eef1e8-8a39-4054-bbf9-f1867331420c](https://drive.google.com/file/d/1Ov7utUUih16EYq4PGLaXQ5r1sifiWYap/view?usp=sharing))
+![image](https://drive.google.com/file/d/1Ov7utUUih16EYq4PGLaXQ5r1sifiWYap/view?usp=sharing)
 
 **iTroxB/iTroxB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
