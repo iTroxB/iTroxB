@@ -1,4 +1,4 @@
-#  ![https://sites.google.com/view/itrox/](/img/itroxb.png) Hi, I'm iTrox 👋
+# ![https://sites.google.com/view/itrox/](/img/itroxb.ico) Hi, I'm iTrox 👋
 
 ![image](/img/itroxb.png)
 
