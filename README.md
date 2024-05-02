@@ -1,7 +1,6 @@
 # ![https://sites.google.com/view/itrox](/img/itroxb.ico) Hi, I'm Javier González (iTrox) 👋
+### Ethical Hacker & Bug Bounty Hunter
 
-
-**iTroxB/iTroxB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+## Encuéntrame en:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier_González-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/javier-gonzalez-espinoza/)
+[![Udemy](https://img.shields.io/badge/Udemy-Brais_Moure-EC5252?style=for-the-badge&logo=udemy&logoColor=white&labelColor=101010)](https://www.udemy.com/course/swift_ios/?referralCode=04756B8423CBE177B930)
+[![Web](https://img.shields.io/badge/Web-MoureDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://mouredev.com)
