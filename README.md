@@ -1,6 +1,5 @@
-# ![https://sites.google.com/view/itrox/](/img/itroxb.ico) Hi, I'm iTrox 👋
+# ![https://sites.google.com/view/itrox/](/img/itroxb.ico) Hi, I'm Javier González (iTrox) 👋
 
-![image](/img/itroxb.png)
 
 **iTroxB/iTroxB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
