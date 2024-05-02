@@ -18,5 +18,10 @@ To this day in the cybersecurity field (both freelance and professionally), I ha
 - 👤 Creation and use of sock puppets for social engineering testing exercises.
 
 ---
-![image](/img/new.png)
+
+<div align="center">
+  <img src="/img/new.png">
+</div>
+
+![image]()
 ---
