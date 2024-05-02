@@ -1,7 +1,7 @@
 # ![https://sites.google.com/view/itrox](/img/itroxb.ico) Hi, I'm Javier González (iTrox) 👋⚔️🛡️
-### 👨‍💻Ethical Hacker🕵️
-### 💻Web Pentester🖥️
-### 🐞Bug Bounty Hunter🪲
+###### 👨‍💻Ethical Hacker🕵️
+###### 💻Web Pentester🖥️
+###### 🐞Bug Bounty Hunter🪲
 ---
 
 Here are some ideas to get you started:
