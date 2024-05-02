@@ -19,4 +19,6 @@ To this day in the cybersecurity field (both freelance and professionally), I ha
 - 🕵️ Use of the Deepweb and Darkweb to analyze and collect sensitive and exposed information from companies, individuals and criminal groups (this point specifically as part of the development of the Malware Analysis module of the master's degree taken).
 - 👤 Creation and use of sock puppets for social engineering testing exercises.
 
+---
 ![image](/img/itroxb.png)
+---
