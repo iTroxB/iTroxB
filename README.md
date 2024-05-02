@@ -8,8 +8,6 @@
 
 #### In my repositories you will find tools I use for web pentesting and bug bounty, as well as useful resources for hacking various types of ethical hacking.
 
----
-
 To this day in the cybersecurity field (both freelance and professionally), I have performed activities such as:
 
 - 🪲 Collecting large amounts of data along with vulnerability detection in pentesting exercises and bug bounty programs.
