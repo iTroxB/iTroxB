@@ -20,5 +20,5 @@ To this day in the cybersecurity field (both freelance and professionally), I ha
 ---
 
 <div align="center">
-  <img src="/img/new.png">
+  <img src="/img/new.jpg">
 </div>
