@@ -6,6 +6,12 @@
 
 ---
 
+<div align="center">
+  <img src="/img/new.jpg" width=400px>
+</div>
+
+---
+
 #### In my repositories you will find tools I use for web pentesting and bug bounty, as well as useful resources for hacking various types of ethical hacking.
 
 To this day in the cybersecurity field (both freelance and professionally), I have performed activities such as:
@@ -16,9 +22,3 @@ To this day in the cybersecurity field (both freelance and professionally), I ha
 - 📝 Documentation of technical and executive reports, phishing and OSINT reports, confidentiality agreements and rules of engagement.
 - 🕵️ Use of the Deepweb and Darkweb to analyze and collect sensitive and exposed information from companies, individuals and criminal groups (this point specifically as part of the development of the Malware Analysis module of the master's degree taken).
 - 👤 Creation and use of sock puppets for social engineering testing exercises.
-
----
-
-<div align="center">
-  <img src="/img/new.jpg" width=250px>
-</div>
