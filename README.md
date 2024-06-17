@@ -7,7 +7,7 @@
 ---
 
 <div align="center">
-  <img src="/img/new.jpg" width=300px>
+  <img src="/img/new.jpg" width=200px>
 </div>
 
 ---
