@@ -2,7 +2,7 @@
 #### 🧑‍💻Pentester | 🐞Bug Bounty Hunter | ⚖️Ethical Hacker
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier_González-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/javier-gonzalez-espinoza/)
-[![Web](https://img.shields.io/badge/Website-iTrox-site-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://sites.google.com/view/itrox/)
+[![Web](https://img.shields.io/badge/Website-iTrox.site-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://sites.google.com/view/itrox/)
 
 ---
 
