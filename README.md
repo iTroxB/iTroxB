@@ -12,7 +12,6 @@
 <div align="center">
   <a href="https://github.com/iTroxB">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iTroxB&show_icons=true&theme=dark&locale=en&layout=compact" alt="iTroxB" />
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=iTroxB&show_icons=true&theme=dark&locale=en" alt="iTroxB" />
   </a>
 </div>
 <br>
