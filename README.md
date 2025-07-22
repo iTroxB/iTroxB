@@ -27,6 +27,4 @@
 <!-- About Me Section -->
 <h2 align="center">About me</h2>
 
-```diff
 - In my repositories you will find tools I use for web pentesting, Wi-Fi hacking and analysis of Linux environments, as well as useful resources for various ethical hacking topics.
-```
