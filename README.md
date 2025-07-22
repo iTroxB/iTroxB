@@ -1,5 +1,5 @@
 <h3 align="center"> 
-  <img src="https://avatars.githubusercontent.com/u/143133090?v=4" height="300"/>
+  <img src="https://avatars.githubusercontent.com/u/143133090?v=4" height="150"/>
 </h3>
 
 <h1 align="center">Hi, I'm iTrox</h1>  
