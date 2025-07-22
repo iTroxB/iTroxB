@@ -11,12 +11,13 @@
 <br>
 <div align="center">
   <a href="https://github.com/iTroxB">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iTroxB&show_icons=true&theme=dark&locale=en&layout=compact" alt="iTroxB" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iTroxB&show_icons=true&theme=dark&locale=en&layout=compact" alt="iTroxB">
   </a>
 </div>
 <br>
 <br>
 <!-- Social Badges -->
+<h2 align="center">Social</h2>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier_González-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/javier-gonzalez-espinoza/)
 [![Web](https://img.shields.io/badge/Website-iTrox.site-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://www.itrox.site)
 [![Gitbook](https://img.shields.io/badge/Gitbook-iTrox-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://itrox.gitbook.io/itrox)
